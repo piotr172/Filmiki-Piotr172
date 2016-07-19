@@ -1,14 +1,18 @@
 1.Jak ręcznie założyć konto, zmienić hasło i zalozyc postac w bazie danych Xyzzy-RP. 
 https://youtu.be/t9lerizy-gI
 
+
 2.Jak dodać się do frakcji na gamemodzie Xyzzy-RP. 
 https://youtu.be/9cf4I7rYBng
+
 
 3.Instalacja XyzzyRP na ServerProject.pl 
 https://youtu.be/Dw-qMs6gGw4
 
+
 4.[Poradnik] Jak zrobić swój serwer MTA na Hamachi. 
 https://youtu.be/H51tUyM5nwA
+
 
 5.Jak ustawić frakcyjne auto. [Xyzzy-RP] [MTA] 
 https://youtu.be/aQfgeB2CFHE
@@ -20,6 +24,7 @@ https://youtu.be/Gv6vdmUUUcs
 
 7.Panel rejstracji konta i tworzenia postaci XyzzyRP. Link do pobrania w opisie. 
 https://youtu.be/OGqlWPpTzE0
+
 
 8.Admin Panel XyzzyRP by Piotr172 [MTA] [RP] [skrypt] 
 https://youtu.be/DU_MQisTxAU
